@@ -1,0 +1,8 @@
+Jupyter
+pandas
+numpy
+seaborn
+plotpy
+fastapi[all]
+transformers
+scikit-learn
